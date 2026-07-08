@@ -20,6 +20,7 @@ The notes are designed for **exam preparation**, with a focus on understanding c
 ```text
 .
 ├── README.md
+├── Sprint-1-Intro-to-Data-Mining.md
 ├── Sprint-2-Data-Mining-Pipeline.md
 ├── Sprint-3-Classification-Analysis.md
 └── Sprint-4-Clustering-Analysis.md
