@@ -1,8 +1,8 @@
-# Sprint 2 | Data Mining Pipeline
+# 📘 Sprint 2 | Data Mining Pipeline
 
 ---
 
-## Table of Contents
+## 🗺️ Table of Contents
 1. Data Mining Project Life Cycle & Domain Knowledge
 2. Data Representation
 3. Determining Sample Size

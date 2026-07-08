@@ -2,7 +2,7 @@
 
 ---
 
-## Table of Contents
+## 🗺️ Table of Contents
 1. Supervised Learning & Classification (the setup)
 2. Decision Trees (the core algorithm)
 3. Entropy & Information Gain (how a tree picks questions)
