@@ -1,66 +1,86 @@
 <div align="center">
-  <h1>Data Mining Exercises</h1>
+  <h1>📚 Data Mining Exam Notes</h1>
 </div>
 
-# Table of Contents
-- [Description of useful R Commands](#description-of-useful-r-commands)
+This repository contains comprehensive Markdown notes for the Data Mining course. Each sprint covers a major topic, including theory, examples, key concepts, and exam preparation material.
 
+The notes are designed for **exam preparation**, with a focus on understanding concepts rather than simply summarizing slides. They are optimized for:
 
-## Description of useful R Commands
+* ✅ Multiple Choice Questions (MCQs)
+* ✅ Short-answer questions
+* ✅ Definition-based questions
+* ✅ Conceptual questions
+* ✅ Comparison questions
+* ✅ Small application-based questions
 
-1. **`is.na`**:
-   - Checks for missing (NA) values in an object.
+---
 
-2. **`read.csv`**:
-   - Reads a file in CSV (Comma Separated Values) format and creates a data frame from it.
+# Repository Structure
 
-3. **`hist`**:
-   - Creates a histogram to display the distribution of a dataset.
+```text
+.
+├── README.md
+├── Sprint-2-Data-Mining-Pipeline.md
+├── Sprint-3-Classification-Analysis.md
+└── Sprint-4-Clustering-Analysis.md
+```
 
-4. **`sum`**:
-   - Calculates the sum of all elements in a numeric vector.
+---
 
-5. **`set.seed`**:
-   - Sets the seed of R's random number generator, useful for creating reproducible results.
+# Study Method
 
-6. **`log`**:
-   - Computes the natural logarithm of a numeric vector or matrix.
+Instead of summarizing slides, each lecture is transformed into structured study notes that explain the material from first principles.
 
-7. **`na.omit`**:
-   - Removes all rows containing NA values from an object.
+Each topic contains:
 
-8. **`nrow`**:
-   - Returns the number of rows in a data frame or matrix.
+* Core Idea
+* Key Points
+* Definitions
+* Why It Matters
+* Easy Examples
+* Common Mistakes
+* Comparison Tables
+* Exam Tips
+* MCQs
+* Short Questions
+* Memory Tricks
+* Revision Summary
 
-9. **`data.frame`**:
-   - Creates data frames, which are used for storing data tables.
+At the end of every lecture:
 
-10. **`dim`**:
-    - Retrieves or sets the dimensions of an object.
+* One-page Cheat Sheet
+* Important Exam Questions
+* Important MCQs
+* Frequently Asked Concepts
+* Last 10 Minutes Before Exam Revision
 
-11. **`sample`**:
-    - Draws random samples from a specified vector or set of numbers.
+---
 
-12. **`plot`**:
-    - Creates a variety of plots depending on the type of the input object.
+# Goal
 
-13. **`missing`**:
-    - Checks if a value is missing (NA).
+The objective of this repository is **not to replace the lecture slides**, but to convert them into **easy-to-understand, exam-oriented study notes**.
 
-14. **`length`**:
-    - Returns the number of elements in an object.
+These notes are intended to help students:
 
-15. **`impute`**:
-    - Used for imputing missing values. The actual function is available in specific packages like `Hmisc`.
+* Understand difficult theoretical concepts
+* Revise efficiently before exams
+* Practice conceptual and MCQ-based questions
+* Build long-term understanding of Data Mining
 
-16. **`unique`**:
-    - Returns a vector, data frame, or array with duplicate elements/rows removed.
+---
 
-17. **`table`**:
-    - Creates a contingency table of the counts at each combination of factor levels.
+# Recommended Usage
 
-18. **`performance`**:
-    - Typically used in the context of performance metrics for predictive models, such as in the `ROCR` package. Computes performance measures from prediction objects.
+For the best learning experience:
 
-19. **`setdiff`**:
-    - Returns the difference of two sets, i.e., the elements in the first set that are not in the second set.
+1. Read the lecture notes from top to bottom.
+2. Solve the generated MCQs.
+3. Answer the short questions without looking at the solutions.
+4. Review the cheat sheet before each revision session.
+5. Read the "Last 10 Minutes Before Exam" section on the day of the exam.
+
+---
+
+# Disclaimer
+
+These notes are AI-assisted study material generated from lecture slides. While every effort has been made to ensure technical correctness, they should be used alongside the official course material and recommended textbooks.
