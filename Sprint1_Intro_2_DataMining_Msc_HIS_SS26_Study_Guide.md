@@ -1,8 +1,5 @@
 # 📖 Lecture: Sprint1_Intro_2_DataMining_Msc_HIS_SS26
 
-**Course:** Introduction to Data Mining — Prof. Dr. Matteo Marouf (Frankfurt University of Applied Sciences)
-**Sprint:** 1 — Introduction to Data Mining
-
 ---
 
 # 1. Lecture Overview
@@ -901,13 +898,3 @@ The lecture contained interactive **Slido** polls and orientation questions rath
 | 12 | *(Closing slide)* "Questions → Answers" | Open Q&A | End-of-lecture discussion slot | Wrap-up | Easy |
 
 ---
-
-## ✅ Final Verification
-
-- [x] All 36 slides covered (intro/polls, definition, applications, life cycle ×4, domain knowledge, representation examples, task types, storytelling, data types ×2, frameworks, career, outline, Q&A)
-- [x] The only formula-like content (TF-IDF) explained; pre-read math topics listed
-- [x] All important images/diagrams explained (life cycle, spectrogram, Node2Vec, TF-IDF, word-embedding plot, data-type tree, structure table, career diagram)
-- [x] All keywords included
-- [x] All applicable comparisons created
-- [x] All quizzes/polls/section questions collected in Quiz Repository (with inferred answers marked)
-- [x] All examples collected in Examples Repository
